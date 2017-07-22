@@ -58,6 +58,7 @@ float:left;
 
 .menu {
 	width: 50%;
+	    margin-right: -213px;
 }
 .menu ul{
 	list-style: none;
@@ -98,6 +99,7 @@ float:left;
 }
 .slider_image {
 	width: 50%;
+	margin-right: -210px;
 }
 .platform_icon{
 	padding: 20px;
